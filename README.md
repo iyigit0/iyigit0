@@ -2,7 +2,7 @@
 - 👀 I’m interested in aviation, aerospace and software.
 - 🌱 I’m currently learning cryptography and cyber security.
 - 💞️ I’m looking to collaborate on company wide projects.
-- 📫 How to reach me a mail or message through teams.
+- 📫 Reach me with a mail or message through teams.
 
 <!---
 iyigit0/iyigit0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
